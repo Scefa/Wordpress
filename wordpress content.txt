@@ -1,0 +1,99 @@
+<a href="index.php"> <img src="http://localhost/wordpress/wp-content/uploads/2023/06/viciousfolders.png"> </a>
+<h2 class="hh2">The Vicious Vultures</h2><h2 class="hh2">The Vicious Vultures</h2>
+<span class="spann">Esports and Streaming</span>
+<table>
+    <tr>
+      <th>The vicious vultures</th>
+      <th>Bigboslayf</th>
+      <th>16-06-2023</th>
+    </tr>
+    <tr>
+      <td>Navi</td>
+      <td>The vicious vultures</td>
+      <td>28-06-2023</td>
+    </tr>
+  <tr>
+      <td>FNatic</td>
+      <td>The vicious vultures</td>
+      <td>12-07-2023</td>
+    </tr>
+
+    <tr>
+      <td>The vicious vultures</td>
+      <td>Team Liquid</td>
+      <td>27-07-2023</td>
+    </tr>
+  </table>
+<a href="#" class="homebutton">Start Browsing!</a>
+<div class="container">
+
+    <footer id="footer">
+      <ul>
+        <li>
+          <a href="https://www.instagram.com/TTVespor/" target="_blank" rel="noopener">
+            <span class="link-subtitle">Instagram TTVesports</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.twitter.com/TTVespor/" target="_blank" rel="noopener">
+            <span class="link-subtitle">Twitter TTV_esports</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.twitch.com/TTVespor/" target="_blank" rel="noopener">
+            <span class="link-subtitle">Twitch TheViciousVultures</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/TTVespor/" target="_blank" rel="noopener">
+            <span class="link-subtitle">YouTube TVV</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.discord.com/TTVespor/" target="_blank" rel="noopener">
+            <span class="link-subtitle">Discord Esports</span>
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+
+---------------------------------------------------------------------------------------------
+<h2 class="t1">Over ons</h2
+<p class="t2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+------------------------------------------------------------------------------------------------------
+<div class="container1">
+		<div class="contact-box">
+			<div class="left"></div>
+			<div class="right">
+				<h2>Contact Us</h2>
+				<input type="text" class="field" placeholder="Your Name">
+				<input type="text" class="field" placeholder="Your Email">
+				<input type="text" class="field" placeholder="Phone">
+				<textarea placeholder="Message" class="field"></textarea>
+				<button class="btn">Send</button>
+			</div>
+		</div>
+	</div><div class="container1">
+		<div class="contact-box">
+			<div class="left"></div>
+			<div class="right">
+				<h2>Contact Us</h2>
+				<input type="text" class="field" placeholder="Your Name">
+				<input type="text" class="field" placeholder="Your Email">
+				<input type="text" class="field" placeholder="Phone">
+				<textarea placeholder="Message" class="field"></textarea>
+				<button class="btn">Send</button>
+			</div>
+		</div>
+	</div>
+
+=====================================================================================================================
+<h2 class="hh3">HenkibOy010</h2>
+<h3 class="pp4">Henk Jansen</h3>
+<h2 class="hh4">The Vicious Vultures</h2>
+<p class="t4">HenkkibOy010 is een pro gamer voor het eSports-team The Vicious Vultures in CS:GO. Met zijn geweldige reflexen en precisie is hij een geduchte tegenstander. Zijn passie, toewijding en teamspel inspireren gamers over de hele wereld.</p>
+<h2 class="hh5">Counter-Strike: Global Offensive</h2>
+<img class="img1" src=http://localhost/wordpress/wp-content/uploads/2023/06/speler.jpg>
+( dit x5)
